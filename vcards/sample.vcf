@@ -1,9 +1,11 @@
 BEGIN:VCARD
 VERSION:4.0
-N:Lastname;Firstname;;
-FN:Firstname Lastname
-TEL;TYPE=CELL:1234567890
-EMAIL:email@example.com
-URL:http://www.example.com
-URL:http://www.instagram.com/your_instagram_username;TYPE=socialprofile
+N:Kazoba;Lenin;;
+FN:Lenin Kazoba
+ORG:Tanzania Youth Coalition
+TITLE:Director
+TEL;TYPE=WORK,VOICE:1234567890
+TEL;TYPE=CELL,VOICE:9876543210
+ADR;TYPE=WORK,PREF:;;P.O. Box 32748;;Tanzania
+URL;RELATED=http://www.tzyc.org;TYPE=uri;VALUE=uri-icon:https://thetechsafari.org/images/SVG/Asset%202.svg
 END:VCARD
