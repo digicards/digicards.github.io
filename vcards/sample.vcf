@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Lastname;Firstname;;
+FN:Firstname Lastname
+TEL;TYPE=CELL:1234567890
+EMAIL:email@example.com
+URL:http://www.example.com
+RELATED:http://www.instagram.com/your_instagram_username;TYPE=socialprofile
+END:VCARD
