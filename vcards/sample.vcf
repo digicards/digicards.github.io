@@ -1,5 +1,13 @@
 BEGIN:VCARD
 VERSION:4.0
+N:Lastname;Firstname;;
+FN:Firstname Lastname
+TEL;TYPE=CELL:1234567890
+EMAIL;TYPE=INTERNET:email@example.com
+URL;TYPE=HOME:http://www.example.com
+URL;TYPE=INSTAGRAM:http://www.instagram.com/ignasxv
+END:VCARDBEGIN:VCARD
+VERSION:4.0
 N:Kazoba;Lenin;;
 FN:Lenin Kazoba
 ORG:Tanzania Youth Coalition
@@ -7,5 +15,6 @@ TITLE:Director
 TEL;TYPE=WORK,VOICE:1234567890
 TEL;TYPE=CELL,VOICE:9876543210
 ADR;TYPE=WORK,PREF:;;P.O. Box 32748;;Tanzania
-URL;RELATED=http://www.tzyc.org;TYPE=uri;VALUE=uri-icon:https://thetechsafari.org/images/SVG/Asset%202.svg
+URL;RELATED=http://www.tzyc.org;TYPE=uri;VALUE=uri-icon:http://www.example.com/favicon.ico
 END:VCARD
+
