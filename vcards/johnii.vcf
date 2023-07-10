@@ -5,7 +5,7 @@ N:Mushi;John;;;
 FN:John Mushi
 ORG:Westerwelle Startup Haus Arusha;
 TITLE:Community Coordinator
-EMAIL;TYPE=PREF,INTERNET:john.mushi@westerwelle.haus
+EMAIL;TYPE=PREF,WSHA:john.mushi@westerwelle.haus
 TEL;TYPE=CELL,voice:+255710630687
 TEL;TYPE=WORK,voice:
 TEL;TYPE=WORK,fax:
