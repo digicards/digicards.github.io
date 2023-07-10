@@ -1,12 +1,24 @@
 BEGIN:VCARD
 VERSION:4.0
-N:Kazoba;Lenin;;
+N:Kazoba;Lenin;;Mr.;M.Sc.
 FN:Lenin Kazoba
-ORG:Tanzania Youth Coalition
-TITLE:Director
-TEL;TYPE=WORK,VOICE:1234567890
-TEL;TYPE=CELL,VOICE:9876543210
+NICKNAME:Lenny
+PHOTO;VALUE=URI;TYPE=JPEG:http://www.example.com/photos/lenin.jpg
+BDAY:1980-06-15
+GENDER:M
 ADR;TYPE=WORK,PREF:;;P.O. Box 32748;;Tanzania
+LABEL;TYPE=WORK,PREF:P.O. Box 32748\nTanzania
+TEL;TYPE=WORK,VOICE:1234567890
+TEL;TYPE=HOME,VOICE:9876543210
+TEL;TYPE=WORK,FAX:1112223333
+TEL;TYPE=CELL,VOICE:4445556666
+TEL;TYPE=PAGER:7778889999
+EMAIL;TYPE=WORK:lenin@example.com
+EMAIL;TYPE=HOME:personal_email@example.com
 URL:http://www.tzyc.org
+URL:http://www.example.com
+SOCIALPROFILE;TYPE=FACEBOOK:http://www.facebook.com/lenin.kazoba
+SOCIALPROFILE;TYPE=TWITTER:http://www.twitter.com/lenin_kazoba
 NOTE:Additional notes about the contact go here.
+REV:20230710T120000Z
 END:VCARD
