@@ -1,17 +1,15 @@
 BEGIN:VCARD
-VERSION:3.0
-N:Kazoba;Lenin;;;;
+VERSION:2.1
+N:Kazoba;Lenin;;;
 FN:Lenin Kazoba
-EMAIL:lenin.kazoba@tzyc.org
-ADR;TYPE=HOME:;;Arusha, Tanzania.;;;;;;
-TEL;TYPE=HOME,VOICE:+255788588900
-TEL;TYPE=WORK,VOICE:+255747588900
-TITLE:Director
-ORG:Epaulettes Safaris
-ORG;TYPE=WORK:Epaulettes Safaris
-EMAIL;TYPE=WORK:info@epaulettes.co.tz
-URL:www.epaulettes.co.tz
-X-INSTAGRAM:https://www.instagram.com/epaulettessafaris/
-X-ORG-FACEBOOK:
-X-ORG-TWITTER:
+TEL;WORK:+255222791095
+TEL;HOME:+255784877497
+TEL;CELL:0713 548 418
+EMAIL;WORK:lenin.kazoba@tzyc.org
+ADR;WORK:;;32748 House No.17, Akachube Road, Kijitonyama;Dar es Salaam;;;TZ
+ORG:Tanzania Youth Coalition
+TITLE: Director
+URL:tzyc.org
+
+NOTE: A movoment for change realizing sustainable development
 END:VCARD
