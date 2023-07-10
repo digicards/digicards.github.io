@@ -9,7 +9,10 @@ EMAIL;TYPE=PREF,WSHA:john.mushi@westerwelle.haus
 TEL;TYPE=CELL,voice:+255710630687
 TEL;TYPE=WORK,voice:
 TEL;TYPE=WORK,fax:
-ADR;TYPE=WORK;type=pref:;; ;;;;
+ADR;TYPE=WORK,PREF:;;Westerwelle Startup Haus Arusha
+Bondeni Street, 7th Floor, Mega Complex
+;;Tanzania
+LABEL;TYPE=WORK,PREF:Westerwelle Startup Haus Arusha\nTanzania
 URL:westerwelle-foundation.com/locations/wsh-arusha
 
 NOTE:
